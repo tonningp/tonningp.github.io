@@ -1,7 +1,7 @@
 ---
-title: "My First Post"
-date: 2022-07-20T06:51:32-07:00
+title: "Hugo is awesome"
+date: Wed Jul 20 07:13:20 PDT 2022 
 draft: true
 ---
 
-A post
+A post, with the title
