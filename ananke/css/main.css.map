@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/paultonning/Code/tonningp.github.io/blog",
+	"sourceRoot": "/Users/paultonning/Code/hugo-blog",
 	"sources": [
 		"stdin"
 	],
